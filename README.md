@@ -1,4 +1,4 @@
-# <font color="red"> WARNING </font>
+# <font color="#FF0000"> WARNING </font>
 NEdit+ is currently is still in the development, expect any bugs to occure at any time. Please report these bug to [me](https://github.com/w1zlm).
 
 # NEdit+
