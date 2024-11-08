@@ -1,4 +1,5 @@
 # NeditGD
+<sup>Upgraded by w1zlm</sup>
 
  Lightweight Geometry Dash level scripting tool
 
